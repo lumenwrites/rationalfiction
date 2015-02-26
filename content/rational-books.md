@@ -2,7 +2,7 @@ Title: Best rational fiction books
 Date: 2015-02-25
 Slug: rational-scifi-books
 
-So you've read HPMOR and are looking for more awesome things like that to read?
+So you've read [HPMOR](http://hpmor.com/) and are looking for more awesome things like that to read?
 
 This article is a collection of the most recommended readings from [/r/rational](http://www.reddit.com/r/rational/). Not all of them are strictly rationalist, but these are the things you're likely to enjoy.
 
