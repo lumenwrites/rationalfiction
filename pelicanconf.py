@@ -49,6 +49,8 @@ ARTICLE_SAVE_AS = 'post/{slug}.html'
 PAGE_URL = '{slug}'
 PAGE_SAVE_AS = '{slug}.html'
 
+CATEGORIES_SAVE_AS = 'article-categories.html'
+
 DIRECT_TEMPLATES = ('index', 'tags', 'categories', 'archives', ) #'about'
 
 TAG_SAVE_AS = ''

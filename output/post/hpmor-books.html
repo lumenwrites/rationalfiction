@@ -1763,6 +1763,13 @@ jQuery(document).ready(function($) {
 <li>The Strange Case of the Spotted Mice</li>
 </ul>
 <p>Lorem ipsum dolor</p>
+<div id="article-info">
+<hr/>
+Author: <a href="http://rationalfiction.io/users/rayalez">Ray Alez</a>
+
+<a style="float:right;"
+href="https://github.com/raymestalez/rationalfiction/blob/master/content/hpmor-books.md">Edit on GitHub</a>
+</div>
 	</article>
       </div>
 </div>
@@ -1803,11 +1810,24 @@ jQuery(document).ready(function($) {
   <div class="large-12 columns">
     <div class="comments">
       <hr />
-      <script data-isso="//comments.digitalmind.io/dm/"
-	      data-isso-avatar="false"
-              src="//comments.digitalmind.io/dm/js/embed.dev.js"></script>
-      <section id="isso-thread"></section>
-      <hr />
+<div id="discourse-comments"></div>
+
+<script type="text/javascript">
+  var discourseUrl = "http://forum.rationalfiction.io/",
+      discourseEmbedUrl = 'http://rationalfiction.io/post/hpmor-books';
+
+  (function() {
+    var d = document.createElement('script'); d.type = 'text/javascript'; d.async = true;
+      d.src = discourseUrl + 'javascripts/embed.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(d);
+  })();
+</script>      
+
+      <!-- <script data-isso="//comments.digitalmind.io/dm/" -->
+      <!-- 	      data-isso-avatar="false" -->
+      <!--         src="//comments.digitalmind.io/dm/js/embed.dev.js"></script> -->
+      <!-- <section id="isso-thread"></section> -->
+      <!-- <hr /> -->
     </div>
   </div>
   </div>

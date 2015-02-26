@@ -15,3 +15,11 @@ Slug: hpmor-books
 
 
 Lorem ipsum dolor
+
+<div id="article-info">
+<hr/>
+Author: <a href="http://rationalfiction.io/users/rayalez">Ray Alez</a>
+
+<a style="float:right;"
+href="https://github.com/raymestalez/rationalfiction/blob/master/content/hpmor-books.md">Edit on GitHub</a>
+</div>
