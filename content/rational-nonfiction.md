@@ -28,5 +28,5 @@ This is a collection of nonfiction books that people in this community are likel
 Author: <a href="http://rationalfiction.io/users/rayalez">Ray Alez</a>
 
 <a style="float:right;"
-href="https://github.com/raymestalez/rationalfiction/blob/master/content/hpmor-books.md">Edit on GitHub</a>
+href="https://github.com/raymestalez/rationalfiction/blob/master/content/rational-nonfiction.md">Edit on GitHub</a>
 </div>
