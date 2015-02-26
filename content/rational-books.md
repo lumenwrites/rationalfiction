@@ -1,6 +1,6 @@
 Title: Best rational fiction books
 Date: 2015-02-25
-Slug: rational-scifi-books
+Slug: rational-books
 
 So you've read [HPMOR](http://hpmor.com/) and are looking for more awesome things like that to read?
 
@@ -100,3 +100,13 @@ Second:
 Miles Vorkosigan
 Asimov
  -->
+
+
+
+<div id="article-info">
+<hr/>
+Author: <a href="http://rationalfiction.io/users/rayalez">Ray Alez</a>
+
+<a style="float:right;"
+href="https://github.com/raymestalez/rationalfiction/blob/master/content/rational-books.md">Edit on GitHub</a>
+</div>

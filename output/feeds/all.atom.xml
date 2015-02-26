@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Rational Fiction</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2015-02-25T00:00:00+01:00</updated><entry><title>Best rational fiction books</title><link href="/post/rational-scifi-books" rel="alternate"></link><updated>2015-02-25T00:00:00+01:00</updated><author><name>Ray Alez</name></author><id>tag:,2015-02-25:post/rational-scifi-books</id><summary type="html">&lt;p&gt;So you've read &lt;a href="http://hpmor.com/"&gt;HPMOR&lt;/a&gt; and are looking for more awesome things like that to read?&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Rational Fiction</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2015-02-25T00:00:00+01:00</updated><entry><title>Best rational fiction books</title><link href="/post/rational-books" rel="alternate"></link><updated>2015-02-25T00:00:00+01:00</updated><author><name>Ray Alez</name></author><id>tag:,2015-02-25:post/rational-books</id><summary type="html">&lt;p&gt;So you've read &lt;a href="http://hpmor.com/"&gt;HPMOR&lt;/a&gt; and are looking for more awesome things like that to read?&lt;/p&gt;
 &lt;p&gt;This article is a collection of the most recommended readings from &lt;a href="http://www.reddit.com/r/rational/"&gt;/r/rational&lt;/a&gt;. Not all of them are strictly rationalist, but these are the things you're likely to enjoy.&lt;/p&gt;
 &lt;h2&gt;Literature&lt;/h2&gt;
 &lt;ul&gt;
@@ -132,4 +132,48 @@ Second:
 
 Miles Vorkosigan
 Asimov
- --&gt;</summary></entry></feed>
+ --&gt;
+
+&lt;div id="article-info"&gt;
+&lt;hr/&gt;
+Author: &lt;a href="http://rationalfiction.io/users/rayalez"&gt;Ray Alez&lt;/a&gt;
+
+&lt;a style="float:right;"
+href="https://github.com/raymestalez/rationalfiction/blob/master/content/rational-books.md"&gt;Edit on GitHub&lt;/a&gt;
+&lt;/div&gt;</summary></entry><entry><title>Nonfiction books and blogs you might enjoy</title><link href="/post/rational-nonfiction" rel="alternate"></link><updated>2015-02-25T00:00:00+01:00</updated><author><name>Ray Alez</name></author><id>tag:,2015-02-25:post/rational-nonfiction</id><summary type="html">&lt;p&gt;This is a collection of nonfiction books that people in this community are likely to enjoy.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;LessWrong&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Gödel, Escher, Bach: An Eternal Golden Braid&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Paul Graham's essays and his book "Hackers and Painters".&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Autobiographies by Feynman, Mitnick, Abagnale, Wozniak, Tesla.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;"On Intelligence" by Jeff Hawkins&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;"A Brief History of Time" by Stephen Hawking&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The Selfish Gene by Richard Dawkins&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The 48 Laws of Power, Influence: The Psychology of Persuasion, The Prince by Niccolò Machiavelli.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;"Serious Creativity" by Edward De Bono&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div id="article-info"&gt;
+&lt;hr/&gt;
+Author: &lt;a href="http://rationalfiction.io/users/rayalez"&gt;Ray Alez&lt;/a&gt;
+
+&lt;a style="float:right;"
+href="https://github.com/raymestalez/rationalfiction/blob/master/content/hpmor-books.md"&gt;Edit on GitHub&lt;/a&gt;
+&lt;/div&gt;</summary></entry></feed>
