@@ -1,49 +1,126 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Rational Fiction</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2015-02-25T00:00:00+01:00</updated><entry><title>List of books mentioned in HPMOR</title><link href="/post/hpmor-books" rel="alternate"></link><updated>2015-02-25T00:00:00+01:00</updated><author><name>Ray Alez</name></author><id>tag:,2015-02-25:post/hpmor-books</id><summary type="html">&lt;ul&gt;
-&lt;li&gt;The Feynman Lectures (volume 1) &lt;/li&gt;
-&lt;li&gt;Judgment Under Uncertainty: Heuristics and Biases &lt;/li&gt;
-&lt;li&gt;Thinking Physics by Epstein,&lt;/li&gt;
-&lt;li&gt;Language in Thought and Action&lt;/li&gt;
-&lt;li&gt;Influence: Science and Practice and Rational Choice&lt;/li&gt;
-&lt;li&gt;Uncertain World&lt;/li&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Rational Fiction</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2015-02-25T00:00:00+01:00</updated><entry><title>Best rational fiction books</title><link href="/post/rational-scifi-books" rel="alternate"></link><updated>2015-02-25T00:00:00+01:00</updated><author><name>Ray Alez</name></author><id>tag:,2015-02-25:post/rational-scifi-books</id><summary type="html">&lt;p&gt;So you've read HPMOR and are looking for more awesome things like that to read?&lt;/p&gt;
+&lt;p&gt;This article is a collection of the most recommended readings from &lt;a href="http://www.reddit.com/r/rational/"&gt;/r/rational&lt;/a&gt;. Not all of them are strictly rationalist, but these are the things you're likely to enjoy.&lt;/p&gt;
+&lt;h2&gt;Literature&lt;/h2&gt;
+&lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;GEB&lt;/p&gt;
+&lt;p&gt;The &lt;em&gt;Null-A&lt;/em&gt; novels by &lt;a href="http://tvtropes.org/pmwiki/pmwiki.php/Creator/AEVanVogt" title="http://tvtropes.org/pmwiki/pmwiki.php/Creator/AEVanVogt"&gt;A. E. van Vogt&lt;/a&gt;. Used as a slogan Alfred Korzybski's phrase, "The map is not the territory."&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;A Step Farther Out&lt;/p&gt;
+&lt;p&gt;"David's Sling" and "Earthweb" by &lt;a href="http://tvtropes.org/pmwiki/pmwiki.php/Creator/MarcStiegler" title="http://tvtropes.org/pmwiki/pmwiki.php/Creator/MarcStiegler"&gt;Marc Stiegler&lt;/a&gt;, in which debate-tracking systems and prediction markets respectively are central to the plot.&lt;/p&gt;
 &lt;/li&gt;
-&lt;li&gt;The Strange Case of the Spotted Mice&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="http://tvtropes.org/pmwiki/pmwiki.php/Literature/Blindsight" title="http://tvtropes.org/pmwiki/pmwiki.php/Literature/Blindsight"&gt;Blindsight&lt;/a&gt; by Peter Watts&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Lorem ipsum dolor&lt;/p&gt;
-&lt;div id="article-info"&gt;
-&lt;hr/&gt;
-Author: &lt;a href="http://rationalfiction.io/users/rayalez"&gt;Ray Alez&lt;/a&gt;
-
-&lt;a style="float:right;"
-href="https://github.com/raymestalez/rationalfiction/blob/master/content/hpmor-books.md"&gt;Edit on GitHub&lt;/a&gt;
-&lt;/div&gt;</summary></entry><entry><title>List of recommended books</title><link href="/post/rational-scifi-books" rel="alternate"></link><updated>2015-02-25T00:00:00+01:00</updated><author><name>Ray Alez</name></author><id>tag:,2015-02-25:post/rational-scifi-books</id><summary type="html">&lt;ul&gt;
-&lt;li&gt;permutation/diaspora &lt;/li&gt;
-&lt;li&gt;blindsight(watts), &lt;/li&gt;
-&lt;li&gt;diamond age &lt;/li&gt;
-&lt;li&gt;The Player of Games&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr /&gt;
+&lt;h2&gt;Webcomics&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;The Name of the Wind&lt;/li&gt;
-&lt;li&gt;Altered Carbon&lt;/li&gt;
-&lt;li&gt;The Stormlight Archivrs&lt;/li&gt;
-&lt;li&gt;The Lies of Locke Lamora&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="http://tvtropes.org/pmwiki/pmwiki.php/ComicStrip/Fleep" title="http://tvtropes.org/pmwiki/pmwiki.php/ComicStrip/Fleep"&gt;Fleep&lt;/a&gt;: The main character wakes up in a phone booth buried under concrete and has to figure out how he got there and how to escape.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/Freefall" title="http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/Freefall"&gt;Freefall&lt;/a&gt;: A lighthearted exploration of the nearer reaches of mindspace, becoming more serious as it goes.&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
-&lt;hr /&gt;
+&lt;h2&gt;Fanfiction&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Anathem&lt;/li&gt;
-&lt;li&gt;diskworld(Small Gods, sourcery, mort)&lt;/li&gt;
-&lt;li&gt;dune, &lt;/li&gt;
-&lt;li&gt;hyperion&lt;/li&gt;
-&lt;li&gt;hitchiker&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="http://tvtropes.org/pmwiki/pmwiki.php/Fanfic/HarryPotterAndTheMethodsOfRationality" title="http://tvtropes.org/pmwiki/pmwiki.php/Fanfic/HarryPotterAndTheMethodsOfRationality"&gt;Harry Potter and the Methods of Rationality&lt;/a&gt;, the &lt;a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/TropeCodifier" title="http://tvtropes.org/pmwiki/pmwiki.php/Main/TropeCodifier"&gt;Genre Codifier&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="http://tvtropes.org/pmwiki/pmwiki.php/Fanfic/Luminosity" title="http://tvtropes.org/pmwiki/pmwiki.php/Fanfic/Luminosity"&gt;Luminosity&lt;/a&gt;, a &lt;em&gt;&lt;a href="http://tvtropes.org/pmwiki/pmwiki.php/Literature/Twilight" title="http://tvtropes.org/pmwiki/pmwiki.php/Literature/Twilight"&gt;Twilight&lt;/a&gt;&lt;/em&gt; fanfic by &lt;a href="http://tvtropes.org/pmwiki/pmwiki.php/Creator/Alicorn" title="http://tvtropes.org/pmwiki/pmwiki.php/Creator/Alicorn"&gt;Alicorn&lt;/a&gt; featuring a more self-aware protagonist.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/MyLittlePonyFriendshipIsMagic" title="http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/MyLittlePonyFriendshipIsMagic"&gt;My Little Pony:&lt;/a&gt; &lt;a href="http://tvtropes.org/pmwiki/pmwiki.php/Fanfic/FriendshipIsOptimal" title="http://tvtropes.org/pmwiki/pmwiki.php/Fanfic/FriendshipIsOptimal"&gt;Friendship Is Optimal&lt;/a&gt;: A researcher with a brilliant new AI design gets an offer she can't refuse for building that AI into Hasbro's forthcoming Equestria Online game. &lt;a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/RealityEnsues" title="http://tvtropes.org/pmwiki/pmwiki.php/Main/RealityEnsues"&gt;Reality Ensues&lt;/a&gt; and keeps ensuing and ensuing and ensuing.
+&lt;div class="indent"&gt; "There seem to be a lot of bronies on &lt;a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/LessWrong" title="http://tvtropes.org/pmwiki/pmwiki.php/Main/LessWrong"&gt;Less Wrong&lt;/a&gt;. This is a trap to sniff them out." — &lt;a href="http://www.fimfiction.net/index.php?view=group&amp;amp;amp;group=1418"&gt;LessWrong FimFiction Group&lt;/a&gt;
+&lt;/div&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://www.fanfiction.net/s/9794740/1/Pokemon-The-Origin-of-Species"&gt;Pokemon: the Origin of Species&lt;/a&gt;: &lt;a href="http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/PokemonRedAndBlue" title="http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/PokemonRedAndBlue"&gt;Red's&lt;/a&gt; goal isn't to become a Pokemon master, but rather a respected Pokemon researcher.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://www.fanfiction.net/s/9380249/1/Rationalising-Death"&gt;Rationalising Death&lt;/a&gt;: &lt;em&gt;&lt;a href="http://tvtropes.org/pmwiki/pmwiki.php/Manga/DeathNote" title="http://tvtropes.org/pmwiki/pmwiki.php/Manga/DeathNote"&gt;Death Note&lt;/a&gt;&lt;/em&gt; fanfiction trying to show what more realistic standards of reasoning would allow the main characters to achieve.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://www.fanfiction.net/s/9658524/1/Branches-on-the-Tree-of-Time"&gt;Branches on the Tree of Time&lt;/a&gt;: A &lt;em&gt;&lt;a href="http://tvtropes.org/pmwiki/pmwiki.php/Franchise/Terminator" title="http://tvtropes.org/pmwiki/pmwiki.php/Franchise/Terminator"&gt;Terminator&lt;/a&gt;&lt;/em&gt; fanfic which demonstrates the real power of time travel.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://www.fanfiction.net/s/9311012/1/Lighting-Up-the-Dark"&gt;Lighting Up the Dark&lt;/a&gt;: A rational &lt;em&gt;&lt;a href="http://tvtropes.org/pmwiki/pmwiki.php/Franchise/Naruto" title="http://tvtropes.org/pmwiki/pmwiki.php/Franchise/Naruto"&gt;Naruto&lt;/a&gt;&lt;/em&gt; fanfic.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://www.fanfiction.net/s/9915682/1/The-Last-Christmas"&gt;The Last Christmas&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="http://makefoil.com/"&gt;The Tragedy of Prince Hamlet and the Philosopher's Stone, or, A Will Most Incorrect to Heaven&lt;/a&gt;: Featuring &lt;em&gt;&lt;a href="http://tvtropes.org/pmwiki/pmwiki.php/Theatre/Hamlet" title="http://tvtropes.org/pmwiki/pmwiki.php/Theatre/Hamlet"&gt;Hamlet&lt;/a&gt;&lt;/em&gt; with utilitarian ethics.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://www.fanfiction.net/s/8379655/1/Hogwarts-Battle-School"&gt;Hogwarts Battle School&lt;/a&gt; tries to show combat among wizards a bit more realistically.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="http://tvtropes.org/pmwiki/pmwiki.php/FanFic/TheMetropolitanMan" title="http://tvtropes.org/pmwiki/pmwiki.php/FanFic/TheMetropolitanMan"&gt;The Metropolitan Man&lt;/a&gt;: A Superman fanfic with a rational (but still paranoid and sociopathic) Lex Luthor.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://www.fanfiction.net/s/10503877/1/The-Amazing-Peter-Parker"&gt;The Amazing Peter Parker&lt;/a&gt;: In which Peter Parker dedicates his life to fighting death after losing his beloved uncle Ben.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="http://tvtropes.org/pmwiki/pmwiki.php/Fanfic/HeroesForEarth" title="http://tvtropes.org/pmwiki/pmwiki.php/Fanfic/HeroesForEarth"&gt;Heroes For Earth&lt;/a&gt; is a &lt;em&gt;&lt;a href="http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/CaptainPlanetAndThePlaneteers" title="http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/CaptainPlanetAndThePlaneteers"&gt;Captain Planet and the Planeteers&lt;/a&gt;&lt;/em&gt; fanfic that takes all the heroes and villains of Captain Planet and makes them act rationally in their pursuance of their goals, whether that be in fighting for environmentalism, as with the heroes, or in taking on their enemies and getting profit, as with the villains.&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
-&lt;hr /&gt;
-&lt;p&gt;Second:
+&lt;h2&gt;Web original&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://twitter.com/HardSciFiMovies"&gt;HardSciFiMovies&lt;/a&gt; on &lt;a href="http://tvtropes.org/pmwiki/pmwiki.php/Website/Twitter" title="http://tvtropes.org/pmwiki/pmwiki.php/Website/Twitter"&gt;Twitter&lt;/a&gt; - deconstructing famous plots in 140 characters.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=-77cUxba-aA"&gt;Twisted&lt;/a&gt;: rational... the musical.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A number of stories by Squid314 on &lt;a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/LiveJournal" title="http://tvtropes.org/pmwiki/pmwiki.php/Main/LiveJournal"&gt;LiveJournal&lt;/a&gt;, including &lt;em&gt;&lt;a href="http://squid314.livejournal.com/324957.html"&gt;The Last Temptation of Christ&lt;/a&gt;&lt;/em&gt;, &lt;em&gt;&lt;a href="http://squid314.livejournal.com/336195.html"&gt;The Girl Who Poked God with a Stick&lt;/a&gt;&lt;/em&gt;, &lt;em&gt;&lt;a href="http://squid314.livejournal.com/293753.html"&gt;The Story of Emily and Control&lt;/a&gt;&lt;/em&gt;, and &lt;em&gt;&lt;a href="http://squid314.livejournal.com/284970.html"&gt;Soul Cancer&lt;/a&gt;&lt;/em&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="http://slatestarcodex.com/2013/05/27/transhumanist-fables/"&gt;Transhumanist Fables&lt;/a&gt;, &lt;a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/DarkerAndEdgier" title="http://tvtropes.org/pmwiki/pmwiki.php/Main/DarkerAndEdgier"&gt;Darker, Edgier&lt;/a&gt;, and more &lt;a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/Transhuman" title="http://tvtropes.org/pmwiki/pmwiki.php/Main/Transhuman"&gt;Transhumanist&lt;/a&gt; versions of common fables. Watch out for &lt;a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/SpoofAesop" title="http://tvtropes.org/pmwiki/pmwiki.php/Main/SpoofAesop"&gt;Spoof Aesops&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/ThreeWorldsCollide" title="http://tvtropes.org/pmwiki/pmwiki.php/Main/ThreeWorldsCollide"&gt;Three Worlds Collide&lt;/a&gt;, a story about &lt;a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/StarfishAliens" title="http://tvtropes.org/pmwiki/pmwiki.php/Main/StarfishAliens"&gt;Starfish Aliens&lt;/a&gt; and ethics in the future.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheCambistAndLordIron" title="http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheCambistAndLordIron"&gt;The Cambist and Lord Iron&lt;/a&gt;: A fairy-tale of economics.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="http://tvtropes.org/pmwiki/pmwiki.php/Literature/Worm" title="http://tvtropes.org/pmwiki/pmwiki.php/Literature/Worm"&gt;Worm&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="http://tvtropes.org/pmwiki/pmwiki.php/Literature/FineStructure" title="http://tvtropes.org/pmwiki/pmwiki.php/Literature/FineStructure"&gt;Fine Structure&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="http://tvtropes.org/pmwiki/pmwiki.php/Literature/Ra" title="http://tvtropes.org/pmwiki/pmwiki.php/Literature/Ra"&gt;Ra&lt;/a&gt;, where magic is the unholy combination of particle physics, fluid dynamics, and bizarre programming languages.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="http://tvtropes.org/pmwiki/pmwiki.php/Literature/CityOfAngles" title="http://tvtropes.org/pmwiki/pmwiki.php/Literature/CityOfAngles"&gt;City Of Angles&lt;/a&gt;, taking place in a twisted and dreamlike mirror of urban reality.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="http://tvtropes.org/pmwiki/pmwiki.php/Literature/FloatingPoint" title="http://tvtropes.org/pmwiki/pmwiki.php/Literature/FloatingPoint"&gt;Floating Point&lt;/a&gt;, a world &lt;a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/InsideAComputerSystem" title="http://tvtropes.org/pmwiki/pmwiki.php/Main/InsideAComputerSystem"&gt;Inside a Computer System&lt;/a&gt; populated by living &lt;a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/ArtificialIntelligence" title="http://tvtropes.org/pmwiki/pmwiki.php/Main/ArtificialIntelligence"&gt;A.I.&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="http://tvtropes.org/pmwiki/pmwiki.php/Literature/SagaOfSoul" title="http://tvtropes.org/pmwiki/pmwiki.php/Literature/SagaOfSoul"&gt;Saga Of Soul&lt;/a&gt;, a rational take on a &lt;a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/MagicalGirlWarrior" title="http://tvtropes.org/pmwiki/pmwiki.php/Main/MagicalGirlWarrior"&gt;Magical Girl Warrior&lt;/a&gt; &lt;a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/TokyoIsTheCenterOfTheUniverse" title="http://tvtropes.org/pmwiki/pmwiki.php/Main/TokyoIsTheCenterOfTheUniverse"&gt;defending Tokyo&lt;/a&gt; from the &lt;a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/MonsterOfTheWeek" title="http://tvtropes.org/pmwiki/pmwiki.php/Main/MonsterOfTheWeek"&gt;Monster of the Week&lt;/a&gt;. It constantly flips the &lt;a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/DeconReconSwitch" title="http://tvtropes.org/pmwiki/pmwiki.php/Main/DeconReconSwitch"&gt;Decon-Recon Switch&lt;/a&gt; in showing how seemingly superfluous elements of the genre can make sense.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!--, 
+- diamond age 
+- The Player of Games
+----
+- The Name of the Wind
+- Altered Carbon
+- The Stormlight Archivrs
+- The Lies of Locke Lamora
+----
+- Anathem
+- diskworld(Small Gods, sourcery, mort)
+- dune, 
+- hyperion
+- hitchiker
+----
+Second:
 - Ra - epub
 - Worm
 - Rainbow's End
@@ -51,6 +128,8 @@ href="https://github.com/raymestalez/rationalfiction/blob/master/content/hpmor-b
 - Daemon(suarez)
 - Vorkosigan saga
 - Good omens - comedy, alexabderwales
-- Accelerando&lt;/p&gt;
-&lt;p&gt;Miles Vorkosigan
-Asimov&lt;/p&gt;</summary></entry><entry><title>About</title><link href="/post/about" rel="alternate"></link><updated>2015-02-24T00:00:00+01:00</updated><author><name>Ray Alez</name></author><id>tag:,2015-02-24:post/about</id><summary type="html">&lt;p&gt;Lorem ipsum dolor&lt;/p&gt;</summary></entry></feed>
+- Accelerando
+
+Miles Vorkosigan
+Asimov
+ --&gt;</summary></entry></feed>

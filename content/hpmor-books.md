@@ -1,6 +1,7 @@
 Title: List of books mentioned in HPMOR
 Date: 2015-02-25
 Slug: hpmor-books
+Status: draft
 
 - The Feynman Lectures (volume 1) 
 - Judgment Under Uncertainty: Heuristics and Biases 

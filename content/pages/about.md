@@ -2,20 +2,32 @@ Title: About
 Date: 2014-12-18 20:30
 Slug: about
 
-<img src="/images/signature.png" style="float:right; width:120px;"/>
+<img src="/images/snap.png" style="float:right;"/>
 
-My name is Ray Alez.
+This is a community for writers and readers of rational and rationalist fiction.
 
-I love studying AI, ML, and cognitive science. I also love blogging and writing fiction.
+Rational fiction is fiction where the characters act as real humans would.
 
-If you are for the first time on my blog, make sure to visit [articles](/articles) page, it is a great place to start.
+Fiction which is driven by a conflict in values, not by 'evil' villians with contrived personas. Where the antagonists would kill the protagonist in the first chapter if they could.
 
-If you have any questions or suggestions or want to contact me for any reason - shoot me a message at raymestalez@gmail.com, I am friendly and cool and I will probably reply =)
+Fiction where heroes don't succeed based on improbable luck or magical brilliance. In our world, Sherlock Holmes would fail as a detective - he operates by magically finding the right clues and magically carrying out complicated chains of deducation. In our world, most clues are meaningless and most guesses are wrong.
 
-If you are looking for an awesome Deep Learning and Artificial Intelligence expert
-<!--(and are willing to sponsor my visa)--> - check out my  <!-- [portfolio](#), --> [github account](github.com/raymestalez), and send me a message at rayalez@digitalmind.io
+Fiction where nobody important is stupid, and where the characters that are smart actually are, not just described as being so.
 
-If you enjoy futurism, transhumanism and hacking - go visit [Orange Mind](http://orangemind.io) - my second blog where I write funny flash fiction <!--and essays--> on these topics.
+Rational fiction is fiction that tries to make sense as much as it tries to tell a good story. While some suspension of disbelief may be needed - neither magic nor timetravel is possible - the world will be internally consistent.
 
+For a quick peak, take a look at [Lord of Rationality](http://hpmor.com/chapter/64#storycontent), a snippet of a rational take on The Lord of The Rings.
+
+You can read more about rationalist fiction [here](http://lesswrong.com/lw/3m/rationalist_fiction/).
+
+## Characteristics of Rational Fiction:
+
+- Nothing happens solely because 'the plot requires it'. If characters do (or don't do) something, there must be a plausible reason.
+- Factions are defined and driven into conflict by their beliefs and values, not just by being "good" or "evil".
+- The characters solve problems through the intelligent application of their knowledge and resources.
+- The rules of the fictional world are sane and consistent.
+- The main character uses (or tries to use) rationalist and scientific methods to demystify seemingly mysterious phenomena.
+- The story shows rationalist techniques, which can be applied by readers.
+- The story is like a puzzle; readers can reach the same solution as the characters by using the information provided earlier in the story.
 
 
