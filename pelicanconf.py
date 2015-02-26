@@ -42,7 +42,7 @@ DEFAULT_PAGINATION = 8
 #RELATIVE_URLS = True
 
 # articles on subpage?
-# nope  INDEX_SAVE_AS = 'articles.html'
+INDEX_SAVE_AS = 'articles.html'
 
 ARTICLE_URL = 'post/{slug}'
 ARTICLE_SAVE_AS = 'post/{slug}.html'
