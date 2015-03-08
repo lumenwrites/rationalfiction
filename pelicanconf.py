@@ -30,7 +30,9 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
          ('You can modify those links in your config file', '#'),)
 
 # Menu
-MENUITEMS = [('Forum', '/'), ('Articles', '/articles'), ('About', '/about')]
+MENUITEMS = [('Forum', '/'),  ('About', '/about')]
+# ('Articles', '/articles'),
+# ('Resources', '/resources'),
 
 # Social widget
 SOCIAL = (('You can add links in your config file', '#'),
